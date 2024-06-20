@@ -1,0 +1,21 @@
+{
+  "name": "pop-up",
+  "version": "1.0.0",
+  "description": "To control browser pop up setting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bahirumulugeta/pop-up-setting"
+  },
+  "keywords": ["Pop-up"],
+  "author": "Bahiru",
+  "license": "ISC",
+  "dependencies": {
+    "bowser": "^2.11.0",
+    "express": "^4.19.2",
+    "puppeteer": "^22.11.2"
+  }
+}
