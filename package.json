@@ -1,5 +1,5 @@
 {
-  "name": "pop-up",
+  "name": "pop-up-settings",
   "version": "1.0.0",
   "description": "To control browser pop up setting",
   "main": "index.js",
